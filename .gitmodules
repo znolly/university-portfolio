@@ -1,0 +1,3 @@
+[submodule "math-topics/frenet-frame"]
+	path = math-topics/frenet-frame
+	url = https://github.com/znolly/frenet-frame.git
